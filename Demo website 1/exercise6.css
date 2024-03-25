@@ -1019,10 +1019,12 @@
                 font-size: 25px;
                 font-weight: lighter;
                 padding-bottom: 15px;
+                text-align: center;
             }
 
             p {
                 padding-bottom: 15px;
+                text-align: center;
             }
 
             .link {
